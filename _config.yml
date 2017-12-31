@@ -1,7 +1,7 @@
 title: Taiki Hagiwara
 description: Game programmer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://taikijl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://taikihagiwara.com/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title.html
 
 # Author settings
