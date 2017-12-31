@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Glow"
+subtitle: "Graduation game project"
+author: "Taiki Hagiwara"
+img: "glow.jpg"
+org:  "Institut de Création et Animation Numériques"
+logo: "img/logo/ican.png"
+from: 2012-10-01 00:00:00
+to: 2013-05-01 00:00:00
+---
+
+*Glow* is a multiplayer first-person shooter made as a graduation project for the Bachelor of Game Design program at ICAN. Players fight each other in a pitch-dark environment and their characters emit light while moving. However, they must move in order to charge up the energy which is needed to shoot.
+
+We participated in the third edition of *[Hits Playtime](http://www.lemonde.fr/hits-playtime/)*, a video game contest for students organized by French newspaper *Le Monde*. Unfortunately, we didn’t won anything but the game had an honorable mention, so we got that going for us which is nice…
+
+You can download the game [here](downloads/GLOW.zip).
+
+The game is currently only playable on a local network, but you can play it online through [Hamachi](https://secure.logmein.com/products/hamachi/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a5OQ6xrzDYs" frameborder="0" allowfullscreen></iframe>
+
+Project Members: [Thomas Bonin](http://tombbonin.com/), [Tom Guiraud](http://tomguiraud.com/), [Mehdi Labidi](http://cerealforever.deviantart.com/), [Cyril Vial](http://cyrilvial.com/)

@@ -1,12 +1,28 @@
-# Site settings
 title: Taiki Hagiwara
-email: thagiwarapro@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  © 2016 Taiki Hagiwara
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://taikijl.github.io/"
-#twitter_username: jekyllrb
-github_username:  TaikiJL
+description: Game programmer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://taikijl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title.html
+
+# Author settings
+author: Taiki Hagiwara # add your name
+
+# Contact links
+email: thagiwarapro@gmail.com # Add your Email address
+linkedin: taiki-jl-hagiwara # Add your Linkedin handle
+github: TaikiJL # Add your Github handle
+twitter: BigTree9292
+
+# Paginate
+#paginate: 6
+#paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
