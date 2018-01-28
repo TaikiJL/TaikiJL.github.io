@@ -10,9 +10,7 @@ from: 2013-12-01 00:00:00
 to: 2014-06-01 00:00:00
 ---
 
-This is another school project we did on Unity3D. Despite its name that could have come out of [The Video Game Name Generator](http://videogamena.me/), this application was destined for a more general purpose than a game.
-
-DSXL is a crowd simulator which uses a steering behaviors approach. Users can create their own agent types composed of different behaviors, then tweak each behavior’s weight during simulation. For example, a “Zombie” agent who has the ability to transmit his type to others can chase the “Normal” agents who will try to flee from it (those two types are already implemented). Hence the name of the application (at least part of it), since we wanted to simulate crowd behaviors during a disaster or other kinds of incidents.
+This is another school project we did on Unity3D: DSXL is a crowd simulator which uses a steering behaviors approach. Users can create their own agent types composed of different behaviors, then tweak each behavior’s weight during simulation. For example, a “Zombie” agent who has the ability to transmit his type to others can chase the “Normal” agents who will try to flee from it (those two types are already implemented). Hence the name of the application (at least part of it), since we wanted to simulate crowd behaviors during a disaster or other kinds of incidents.
 
 Other included features are:
 
